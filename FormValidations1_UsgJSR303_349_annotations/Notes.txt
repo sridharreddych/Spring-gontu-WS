@@ -1,0 +1,9 @@
+to make the size and valid annotations work use hibernate validator library, apache bean validator
+library etc. JSR stands for java specifications request which are kind of standards provided
+by community called as JCP <java community process>. this community has given out two standards
+which are related to bean validation with the name jsr 303 jsr 349. 
+
+i you want to use size annotation not null annotation, future annotation, valid annotation
+hibernate is only of the most popular library which developers use across globe for spring mvc
+project for all bean validation.
+download from http://hibernate.org/validator/downloads/
