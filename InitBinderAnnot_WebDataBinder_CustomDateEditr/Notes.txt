@@ -1,0 +1,4 @@
+For example if you have a special requirement like except phone rest all has to bind to form
+elements then how would you do it, yes you do it with initbinder and web data binder
+
+Also you see the concept of property editor
